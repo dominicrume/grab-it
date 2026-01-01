@@ -1,0 +1,8 @@
+{
+  "name": "Grab-It",
+  "description": "Zero-friction, hyper-local, video-first traffic engine for food deals.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
